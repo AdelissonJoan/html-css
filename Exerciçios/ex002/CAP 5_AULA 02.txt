@@ -1,0 +1,34 @@
+Adicionando Símbolos e Emojis:
+
+
+A tag '&lt;' (Less than) significa menor que. e a tag '&gt;' (greather than) significa maior que.
+
+A tag '<!---->' é usada para adicionar um comentário ao código. exe: <!-- Less than / Greater than -->
+
+
+Para adicionar símbolos vc deve usar : '&(nome do símbolo;', exe: &copy; = vai exibir aquele símbolo de copyright
+
+Alguns exemplos de códigos de símbolos:
+
+&nbsp; mostra um espaço em branco.
+&reg; mostra o símbolo de marca registrada, (aquele 'r' pequeno).
+&copy; mostra o símbolo de copyright.
+&trade; mostra o símbolo de trademark, que é (marca registrada em inglês).
+&euro; mostra o símbolo do euro.
+&pound; mostra o símbolo da libra.
+&yen; mostra o símbolo do yene.
+&cent; mostra o símbolo do centavo (américano).
+&empty; mostra o símbolo de vázio.
+&sum; mostra o símbolo de soma.
+&delta; mostra o símbolo de delta menor.
+&Delta; mostra o símbolo de delta maior.
+&uarr; mostra o símbolo de seta pra cima.
+&darr; mostra o símbolo de seta pra baixo.
+&larr; mostra o símbolo de seta para esquerda.
+&rarr; mostra o símbolo de seta para direita.
+ 
+
+Para adicionar emojis vc deve usar: '&#x(código do emoji';, exe: &#x1F596; = 🖖
+Para usar emojis vc vai digitar a tag: &#x; e depois vai pesquisar no site: https://emojipedia.org  pelo código do emoji que vc quer.
+
+

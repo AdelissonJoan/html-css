@@ -1,0 +1,29 @@
+Criando meu primeiro código HTML:
+
+Primeiro criar pastas: estudos >>> html-css >>> exerciçios >>> ex001
+Depois abrir a pasta com o VS Code e criar um novo arquivo referente a pasta do exerciçio (nome do arquivo: index.html)
+
+Todo arquivo html começa em <html> e termina em </html> dentro do html só existem 2 áreas, a área de cabeça <head> e a área do corpo <body>
+a área Head é a parte de configurações do seu site, e a área body é a parte do conteúdo do seu site.
+
+
+Na área da cabeça:
+
+O simbólo ! (exclamação) vai criar o código base do arquivo em html
+
+a Primeira linha vai dizer qual o tipo do documento criado. (exe: <!DOCTYPE html5>)
+a Segunda linha vai dizer qual a linguagem do arquivo. (exe: <html lang='pt-br'> )
+a Terceira será o início da tag Head. (exe: <head>)
+a Quarta linha na área Head vai mostrar o conjunto UTF-8, que é um padrão de codificação de caractéres que permite o uso de acentuação de texto. 
+a Quinta linha ela indica que a sua tela; do seu site vai ocupar 100% da tela dispónivel dada pelo seu navegador.
+a Sexta linha ela irá indicar o titúlo do seu site, no caso esse titúlo irá aparecer lá encima na aba. (exe: <title>Meu Primeiro Exercício</title> )
+
+Na área do corpo:
+
+Aqui a gente vai usar algumas Tag's por exemplo: 
+
+h1 (usada pra criar o titúlo do seu site) Exe: <h1>Olá, Mundo!</h1> Obs. lembre-se h1 não significa grande, significa titúlo de nível 1, não confunda.
+
+p (usada para criar um paragráfo) Exe: <p>Esse é o meu primeiro documento html! Estou muito feliz!</p>
+
+hr (usada para criar uma linha horizontal abaixo do cabeçário) 
